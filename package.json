@@ -1,0 +1,11 @@
+{
+  "name": "scan_qr_code_with_webcam",
+  "version": "1.0.0",
+  "description": "Attendance System with QR Code",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Robert Miras",
+  "license": "MIT"
+}
